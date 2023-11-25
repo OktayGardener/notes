@@ -1,1 +1,1 @@
-[post 19-23 hack] My notes data through apps from "To Do", "OneNote", "Craft" and "Daylo" via Windows/Android & macOS/iOS. Apps used are Microsoft OneNote, Google Keep, Apple Notes. For productivity purposes. For school. For personal use. For private use. For grand central station purposes. 
+[post 19-23 hack] My notes data from apps such as "Microsoft To Do", "Microsoft OneNote", "Notion" etc, via Windows/Android & macOS/iOS. For productivity purposes. For school. For personal use. For private use. For grand central station purposes. 
